@@ -1,0 +1,11 @@
+{ "name": "giraffe/giraffe",
+    "require": {
+        "duck/duck": "^1.0" 
+    },
+    "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/piranos/partials.git"
+       }
+    ]
+}
